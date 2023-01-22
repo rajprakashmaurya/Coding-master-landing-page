@@ -1,0 +1,26 @@
+.navbar-container {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #064ea3;
+  color: white;
+  height: 60px;
+  padding: 0 9%;
+}
+
+.navbar-left {
+  flex: 0.3;
+  line-height: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  cursor: pointer;
+  letter-spacing: 0.4rem;
+}
+.navbar-right {
+  display: flex;
+  flex: 0.6;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

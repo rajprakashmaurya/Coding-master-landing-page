@@ -1,0 +1,22 @@
+.footer-container {
+  background-color: #064ea0;
+  padding: 20px 9%;
+}
+
+.footer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer-header-left {
+  font-size: 1rem;
+  font-weight: 700;
+  color: white;
+}
+
+.footer-container > h1 {
+  font-weight: 400;
+  font-size: 0.7rem;
+  color: white;
+  align-items: center;
+}
